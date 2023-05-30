@@ -1,0 +1,17 @@
+
+#errori{
+	float: left;
+}
+input[type=date]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    display: none;
+}
+.valideInput {
+	-webkit-box-shadow: 0 0 0px 1000px #d3edc5 inset !important;
+	background: #d3edc5 !important;
+}
+
+.invalideInput {
+	-webkit-box-shadow: 0 0 0px 1000px #edc5c5 inset !important;
+	background: #edc5c5 !important;
+}
